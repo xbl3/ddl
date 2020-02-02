@@ -1,4 +1,4 @@
-:exe
+# EXE
 https://global.download.synology.com/download/Tools/Assistant/6.2-24922/Windows/synology-assistant-6.2-24922.exe
 https://global.download.synology.com/download/Tools/NoteStationClient/2.1.6-272/Windows/x86_64/synology-note-station-client-2.1.6-272-win-x64-Setup.exe
 https://global.download.synology.com/download/Tools/HyperBackupExplorer/2.2.1-0133/Windows/HyperBackupExplorer-2.2.1-0133-windows.zip
@@ -6,28 +6,28 @@ https://global.download.synology.com/download/Tools/PhotoStationUploader/1.4.5-0
 https://global.download.synology.com/download/Tools/iSCSIVssPlugin/1.1.0-0040/Windows/SynoVssSetup-1.1-0040.exe
 https://global.download.synology.com/download/Tools/VMwarePlugin/6.0-0004/VMware_vCenter_6/SynoVMSSInstaller.exe
 
+# VIB
+https://global.download.synology.com/download/Tools/NFSVAAIPlugin/1.2-1008/VMware_ESXi/synology-nfs-vaai-plugin-1.2-1008.vib
+
+# ZIP
+https://global.download.synology.com/download/Tools/NFSVAAIPlugin/1.2-1008/VMware_ESXi/synology-nfs-vaai-plugin-1.2-1008.zip
+https://global.download.synology.com/download/Tools/SynologyCloudSyncDecryptionTool/018/Windows/SynologyCloudSyncDecryptionTool-018.zip
 
 
+#SPACED
 
-:hasSpaces
-
-:exeSpaces
+# exeSpaces
 https://global.download.synology.com/download/Tools/SynologyDriveClient/2.0.1-11061/Windows/Installer/Synology%20Drive%20Client-2.0.1-11061.exe
 https://global.download.synology.com/download/Tools/ChatClient/1.1.1-57/Windows/Chat%20Setup%201.1.1-57.exe
 https://global.download.synology.com/download/Tools/CloudStationBackup/4.3.2-4450/Windows/Installer/Synology%20Cloud%20Station%20Backup-4.3.2-4450.exe
 https://global.download.synology.com/download/Tools/CloudStationDrive/4.3.2-4450/Windows/Installer/Synology%20Cloud%20Station%20Drive-4.3.2-4450.exe
 
-:msiSpaces
+# msiSpaces
 https://global.download.synology.com/download/Tools/SynologyDriveClient/2.0.1-11061/Windows/Installer/Synology%20Drive%20Client-2.0.1-11061.msi
 https://global.download.synology.com/download/Tools/CloudStationDrive/4.3.2-4450/Windows/Installer/Synology%20Cloud%20Station%20Drive-4.3.2-4450.msi
 https://global.download.synology.com/download/Tools/CloudStationBackup/4.3.2-4450/Windows/Installer/Synology%20Cloud%20Station%20Backup-4.3.2-4450.msi
 
 
-:vib
-https://global.download.synology.com/download/Tools/NFSVAAIPlugin/1.2-1008/VMware_ESXi/synology-nfs-vaai-plugin-1.2-1008.vib
 
-:zip
-https://global.download.synology.com/download/Tools/NFSVAAIPlugin/1.2-1008/VMware_ESXi/synology-nfs-vaai-plugin-1.2-1008.zip
-https://global.download.synology.com/download/Tools/SynologyCloudSyncDecryptionTool/018/Windows/SynologyCloudSyncDecryptionTool-018.zip
 
 
