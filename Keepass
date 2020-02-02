@@ -1,0 +1,20 @@
+# Setup
+https://raw.github.com/xbl3/ddl/master/files/exe/KeePass-2.44-Setup.exe
+https://raw.github.com/xbl3/ddl/master/files/msi/KeePass-2.44.msi
+
+# Portable
+https://raw.github.com/xbl3/ddl/master/files/app/KeePass-2.44.zip
+
+
+
+####################################NULL$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# For some reason the dev (Dominik Reichl) is still using Sourceforge
+# Not going to speculate, as the choice is his, so sauce is also provided
+# Use above links for scripting (rclone/wget/curl) to grab direct instead
+# Here's hoping maybe sourceforge, and FossHub, will come around one day Oo
+
+## SAUCE
+# Setup https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.44/KeePass-2.44-Setup.exe/download
+# Install https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.44/KeePass-2.44.msi/download
+# Portable https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.44/KeePass-2.44.zip/download
+
